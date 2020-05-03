@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-04-25T08:33:39.501+02:00
+  initializedAtString: 2020-04-25T08:33:39.496+02:00
+  log:
+  - commitID: ec3ccf5ff9ac80bf1a463a78bc853b1089898c7b
+    mergeA: 
+    mergeB: 
+    authorName: Luca
+    authorEmail: 57528364+LucaVaccari@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-04-22T08:06:51.000+02:00
+    commitTimeString: 2020-04-22T08:06:51.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\luca\Luca\Personali\Videogiochi\Miei\Unity\Progetti\HalfLife2-GravityGun\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: LICENSE
+      fullPath: D:\luca\Luca\Personali\Videogiochi\Miei\Unity\Progetti\HalfLife2-GravityGun\LICENSE
+      projectPath: ..\LICENSE
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: D:\luca\Luca\Personali\Videogiochi\Miei\Unity\Progetti\HalfLife2-GravityGun\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0

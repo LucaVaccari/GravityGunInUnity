@@ -1,0 +1,18 @@
+Sounds:
+PickUp
+Hold
+Shoot
+Drop
+
+Props:
+|/| Ground
+|/| Walls
+|/| Rails
+|/| Trains
+|/| Bridges with windows(for snipers)
+|/| Bridges without windows
+|/| Buildings
+|/| Fences
+| | Road sign
+|/| Cover places
+| | Chests
